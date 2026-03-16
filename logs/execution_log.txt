@@ -1,0 +1,11 @@
+GPU Specialization Capstone Project Execution
+
+Compiling CUDA code
+nvcc edge_detection.cu -o edge_detection
+
+Compilation successful
+
+Running program
+./edge_detection
+
+GPU Edge Detection Completed
