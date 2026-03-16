@@ -1,0 +1,5 @@
+GPU Edge Detection Output
+
+Program executed successfully using CUDA GPU kernel.
+
+Parallel processing completed.
